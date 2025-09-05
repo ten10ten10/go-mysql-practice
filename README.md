@@ -1,1 +1,1 @@
-# go-mysql-practice
+# gorilla/mux-practice
